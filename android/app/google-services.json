@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591424984366",
+    "project_id": "freeflow-vpn",
+    "storage_bucket": "freeflow-vpn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591424984366:android:187a838d820f858bbd96bf",
+        "android_client_info": {
+          "package_name": "com.freeflow.vpn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASoCjaYN9ftYRrMso-kd47BNnfpAezeyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
